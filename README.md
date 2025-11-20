@@ -26,9 +26,22 @@ This repo covers everything from preprocessing to model building, evaluation, an
 -PCA
 
 -Clustering techniques
-
 Model Evaluation: Metrics, confusion matrix, performance charts
 
-Projects: Real datasets for regression/classification
+**🎯 Purpose:**
+
+-Master ML algorithms step-by-step
+
+-Learn model evaluation and tuning
+
+-Build reusable ML pipelines
+
+-Improve understanding through projects
+
+**🛠️ Tech Stack:**
+
+Python, scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
+
+**Projects:**  Real datasets for regression/classification
 
 Theory Notes: Algorithms, advantages, limitations
