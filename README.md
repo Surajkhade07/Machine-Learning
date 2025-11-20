@@ -43,5 +43,3 @@ Model Evaluation: Metrics, confusion matrix, performance charts
 Python, scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 
 **Projects:**  Real datasets for regression/classification
-
-Theory Notes: Algorithms, advantages, limitations
